@@ -93,9 +93,8 @@ header a{
 	background: orange;
 }
 html{
-	background: #5B5B5B;
 	background: url("../IMG/Artoria.png");
-	
+	background: #5B5B5B;	
 }
 #quest{
 	width: 800px;
